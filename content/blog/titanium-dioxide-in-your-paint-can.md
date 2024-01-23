@@ -6,7 +6,7 @@ keywords: "painting contractor"
 canonical: "https://crestwoodpainting.com/titanium-dioxide-in-your-paint-can/"
 date: "2013-12-20"
 index: true
-image: "-"
+
 categories:
   - "general"
 tags:

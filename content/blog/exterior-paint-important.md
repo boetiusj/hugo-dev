@@ -6,7 +6,7 @@ keywords: "paint colors exterior kansas city crestwood"
 canonical: "https://crestwoodpainting.com/exterior-paint-important/"
 date: "2013-09-04"
 index: true
-image: "-"
+
 categories:
   - "color-choices"
 tags:

@@ -6,7 +6,7 @@ keywords: "-"
 canonical: "https://crestwoodpainting.com"
 date: "2014-01-04"
 index: true
-image: "-"
+
 categories:
   - "home-maintenance-tips"
 ---

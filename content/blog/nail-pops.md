@@ -6,7 +6,7 @@ keywords: "drywall nail pops repair painting crestwood"
 canonical: "https://crestwoodpainting.com/nail-pops/"
 date: "2014-06-20"
 index: true
-image: "-"
+
 categories:
   - "painting-challenges"
 tags:

@@ -6,7 +6,7 @@ keywords: "paint colors, choose paint, crestwood painting"
 canonical: "https://crestwoodpainting.com/colors-relaxation/"
 date: "2013-10-04"
 index: true
-image: "-"
+
 categories:
   - "color-choices"
 tags:

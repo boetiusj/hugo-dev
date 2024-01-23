@@ -6,7 +6,7 @@ keywords: "paint contractor employees crestwood"
 canonical: "https://crestwoodpainting.com/employees-or-sub-contractors/"
 date: "2013-03-11"
 index: true
-image: "-"
+
 categories:
   - "how-to-hire-painter"
 tags:

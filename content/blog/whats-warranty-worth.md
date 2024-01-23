@@ -6,7 +6,7 @@ keywords: "house paint warranty kansas city crestwood"
 canonical: "https://crestwoodpainting.com/whats-warranty-worth/"
 date: "2013-08-23"
 index: true
-image: "-"
+
 categories:
   - "how-to-hire-painter"
 tags:

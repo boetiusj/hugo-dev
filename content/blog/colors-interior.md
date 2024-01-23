@@ -6,7 +6,7 @@ keywords: "paint colors interior kansas city"
 canonical: "https://crestwoodpainting.com/colors-interior/"
 date: "2013-02-27"
 index: true
-image: "-"
+
 categories:
   - "color-choices"
 tags:

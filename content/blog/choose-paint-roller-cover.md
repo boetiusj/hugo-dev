@@ -6,7 +6,7 @@ keywords: "paint roller cover nap crestwood painting"
 canonical: "https://crestwoodpainting.com/choose-paint-roller-cover/"
 date: "2012-12-03"
 index: true
-image: "-"
+
 categories:
   - "painting-tips"
 tags:

@@ -6,7 +6,7 @@ keywords: "paint color roof choose kansas city crestwood"
 canonical: "https://crestwoodpainting.com/how-paint-roof-c…rs-work-together/"
 date: "2013-05-20"
 index: true
-image: "-"
+
 categories:
   - "color-choices"
 tags:

@@ -6,7 +6,7 @@ keywords: "Paint disposal kansas city crestwood"
 canonical: "https://crestwoodpainting.com/dispose-old-paint/"
 date: "2012-12-10"
 index: true
-image: "-"
+
 categories:
   - "home-maintenance-tips"
 tags:

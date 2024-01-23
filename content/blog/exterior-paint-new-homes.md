@@ -6,7 +6,7 @@ keywords: "exterior paint new homes kansas city builder grade"
 canonical: "https://crestwoodpainting.com/exterior-paint-new-homes/"
 date: "2013-04-02"
 index: true
-image: "-"
+
 categories:
   - "painting-challenges"
 tags:

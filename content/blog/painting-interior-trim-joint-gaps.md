@@ -6,7 +6,7 @@ keywords: "painting interior trim prep crestwood "
 canonical: "https://crestwoodpainting.com/painting-interior-trim-joint-gaps/"
 date: "2013-01-21"
 index: true
-image: "-"
+
 categories:
   - "painting-challenges"
 tags:

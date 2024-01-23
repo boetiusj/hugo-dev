@@ -5,7 +5,7 @@ keywords: "paint backroll kansas city crestwood painting"
 canonical: "https://crestwoodpainting.com"
 date: "2012-08-06"
 index: true
-image: "-"
+
 categories:
   - "painting-tips"
 tags:

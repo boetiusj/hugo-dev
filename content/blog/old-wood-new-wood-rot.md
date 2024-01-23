@@ -6,7 +6,7 @@ keywords: "painting prep wood rot kansas city"
 canonical: "https://crestwoodpainting.com/old-wood-new-wood-rot/"
 date: "2012-08-20"
 index: true
-image: "-"
+
 categories:
   - "painting-challenges"
 tags:

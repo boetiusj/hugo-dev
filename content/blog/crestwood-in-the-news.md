@@ -6,7 +6,7 @@ keywords: "crestwood painting news channel 41 interview rainy"
 canonical: "https://crestwoodpainting.com/crestwood-in-the-news/"
 date: "2013-06-25"
 index: true
-image: "-"
+
 categories:
   - "painting-reviews"
 tags:
